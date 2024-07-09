@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Vie Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Vien Nguyen</h1>
 <h3 align="center">I'm a CS major at University of South Florida, currently pursuing a software engineering career</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viennguyen24" alt="viennguyen24" /></a> </p>
 
+- 📫 How to reach me **viennguyen@usf.edu**
+
+- ⚡ Fun fact **I do fencing!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vien nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vien nguyen" height="30" width="40" /></a>
+<a href="https://instagram.com/ntvin_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ntvin_24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/niev28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niev28" height="30" width="40" /></a>
 </p>
 
@@ -14,5 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viennguyen24&show_icons=true&locale=en&layout=compact" alt="viennguyen24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viennguyen24&show_icons=true&theme=dracula&title_color=000000&locale=en" alt="viennguyen24" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viennguyen24&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&locale=en" alt="viennguyen24" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viennguyen24&" alt="viennguyen24" /></p>
 
