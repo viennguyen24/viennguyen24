@@ -2,7 +2,7 @@
 <h3 align="center">I'm a CS major at University of South Florida, currently pursuing a software engineering career</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viennguyen24" alt="viennguyen24" /></a> </p>
-- **Check out my portfolio here! https://vienng.vercel.app**
+- Check out my portfolio here! https://vienng.vercel.app
 
 - 📫 How to reach me **viennguyen@usf.edu**
 
